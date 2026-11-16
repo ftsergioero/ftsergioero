@@ -8,7 +8,7 @@ Trabajo entre el software y el hardware: desarrollo aplicaciones web full stack 
 - 🔬 Investigué algoritmos de machine learning para microcontroladores MSP430 que detectan en tiempo real rupturas en redes de distribución de agua.
 - 📄 Coautor de *"Wavelet-Based Machine Learning for Real-Time Burst Detection on Embedded Edge Devices"* (IHCONCS 2026, Zagreb).
 - 🏆 Dos Premios Relevantes en eventos científicos nacionales por mi trabajo en sincronización de nodos por GPS con bajo consumo.
-- 🌍 Busco oportunidades en España (Barcelona, Madrid) o en remoto.
+
 
 ## 🛠️ Tecnologías
 
